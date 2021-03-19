@@ -44,7 +44,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.rdi.zimt.uni-siegen.de\/p\/Willkommen_in_2d"
+                 "value":"https:\/\/pad.rdi.zimt.uni-siegen.de\/p\/Willkommen_in_2d?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false"
                 }, 
                 {
                  "name":"openWebsiteTrigger",

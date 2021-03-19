@@ -20,7 +20,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"nacht.mp4"
+                 "value":"nacht.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

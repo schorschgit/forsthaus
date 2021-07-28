@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "format":"json",
+         "format":"jsonXML",
          "target":"outdoor.json"
         }
     },
